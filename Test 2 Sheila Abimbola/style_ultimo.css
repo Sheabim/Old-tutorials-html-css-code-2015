@@ -1,0 +1,231 @@
+/*Sheila Abimbola Regis Adesina*/
+
+body{ font-family: calibri, arial, sans-serif;
+margin: auto;
+}
+
+
+/*----------------------------General-----------------------------------------*/
+
+
+#wrapper {
+
+	margin:40px auto;
+
+	
+	font-family: "calibri", arial, sens-serif;
+	width:960px;
+	background-color:#4d4547;
+	padding-bottom:30px;
+
+	}
+	
+	
+	
+	/*----------------------------content-----------------------------------------*/
+	
+	#content{
+	padding-left:40px;
+
+	}
+	
+header img{
+
+background-color: #7a8916; /*Default colour for older browsers*/
+background: -webkit-linear-gradient(#d0e925, #7a8916);
+background: -moz-linear-gradient(#d0e925, #7a8916);
+background: -o-linear-gradient(#d0e925, #7a8916);
+background: linear-gradient(#d0e925, #7a8916); /*standard syntax */
+margin-top:10px;
+margin-left:40px;
+
+}
+
+
+
+
+
+/****************************Left col****************************/
+
+
+#left_col{
+width:160px;
+float:left;
+}
+
+
+
+/**************************** Left col navigation****************************/			  
+
+#left_col {
+width:110px;
+
+
+}
+
+
+
+nav li{
+list-style-type:none; /*bullet*/
+padding:10px;
+float:left; 
+
+}
+nav ul{
+margin:0;
+padding:0;/*very important oherwise does bor work*/
+
+
+}
+
+nav li a {
+
+text-decoration:none; /*linha*/
+display:block;/*it makes spaces between nav bottoms*/
+padding:5px;/* how the letter stays insid de box*/
+color:#fff;   /*color letra */
+width:110px;
+height:20px;
+text-align:left;
+padding-left:15px;
+
+
+}
+
+
+
+
+nav li a:hover{
+
+color:#b85224; /*letter on pass onthe top*/
+
+}
+
+
+
+
+#current{
+
+color:#d0e925; /*word clor*/
+width:110px;
+height:20px;
+margin-left:10px;
+text-align:left;
+padding-left:15px;
+
+}
+
+/**************************** Left under ****************************/	
+aside p{
+color:#fff;
+padding-left:15px;
+padding-top:0px;
+font-size:80%;
+}
+
+aside img{
+padding-top:30px;
+
+}
+
+
+/****************************middle_column ****************************/	
+
+#mid_col{
+float:left;
+background-color:#f0f0f0;
+width:417px;
+padding-bottom:31px;
+margin-left:45px;
+}
+
+#mid_col img{
+
+margin:60px;
+margin-top:30px;
+margin-bottom:0px;
+}
+
+#mid_col img {
+border-radius:20px;
+    box-shadow: 5px 5px 5px #888888;
+}
+
+#mid_col p{ 
+margin-bottom:6px;
+}
+
+#mid_col p{
+padding-left:60px;
+font-size:90%;
+}
+#mid_col img {
+border-radius:20px;
+    box-shadow: 5px 5px 5px #888888;
+}
+
+#mid_col a {
+color:#8a9447;
+}
+
+	
+figure img{	
+width: 301px
+
+}
+
+right_col{
+
+}
+
+
+/***************************footer****************************/
+
+footer{
+clear:both;
+font-size:80%;
+padding-left:200px;
+}
+
+
+
+
+
+a{
+
+}
+
+footer ul{
+list-style-type: none;
+
+margin:0;
+padding:0;/*very important oherwise does bor work*/
+margin-right:0px;
+}
+
+footer li{
+float:left;/* para coloar horizontal*/
+padding-left:20px;
+
+margin-right:40px;
+}
+
+
+a{
+color:#fff;
+}
+
+footer a:link{
+color:#fff; /*word clor*/
+text-decoration:none;
+}
+
+footer a:hover{
+text-decoration:underline; /*to other links*/ /*box color around letters*/
+
+}
+
+
+
+
+
