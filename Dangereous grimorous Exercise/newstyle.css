@@ -1,0 +1,173 @@
+/* Sheila Abimbola*/
+
+
+*{
+
+     }
+
+	 
+	    /* wrapper */
+		
+	#wrapper{
+      width:900px;
+	  margin:auto;
+
+	  }
+	   
+	 html {
+height:100%;
+}
+	    /*HTMLTake out the thing in the bottom */
+	    /*Take out the thing in the bottom */
+	    /*Take out the thing in the bottom */		
+	
+/****************************Body****************************/	
+	
+body{
+	
+font-family: arial, helvetica, calibri, sans-serif;
+color:#fff;
+background-color:#120807;
+background: -webkit-linear-gradient(#7d603b,#120807);
+background: -moz-linear-gradient(#7d603b, #120807);
+background: -o-linear-gradient(#7d603b, #120807);
+background: linear-gradient(#7d603b, #120807);
+	
+	      }
+	
+/****************************Header****************************/	  
+header img{
+border-radius:5px;
+
+
+}
+	  
+	
+/****************************navigation****************************/			  
+		 
+		  
+nav{
+		  
+	
+color:#fff;
+background-color:#120807;
+background: -webkit-linear-gradient(#7d603b,#120807);
+background: -moz-linear-gradient(#7d603b, #120807);
+background: -o-linear-gradient(#7d603b, #120807);
+background: linear-gradient(#7d603b, #120807);
+height:30px; 
+border-radius:5px;
+
+
+		  
+    
+	         }
+		   
+	nav a:link {
+	  text-decoration:none;
+	  color:#fff;
+	  	  }
+		
+		  
+	nav a:hover {
+		color:#8B522C;
+}	
+		  
+	li{
+	list-style-type:none;
+	  display: inline;
+	  padding-right:25px;
+	  color:#cbc847;
+	
+	  font-weight:bold;
+	}
+	
+	
+	nav ul{
+		color: #bbb46d;
+	font-size: 1.1em;
+	padding-top:5px;
+	}
+/****************************Content_container ****************************/	
+	#content_container{
+}
+	
+section
+	{
+	
+background-color:#120807;
+background: -webkit-linear-gradient(#7d603b,#120807);
+background: -moz-linear-gradient(#7d603b, #120807);
+background: -o-linear-gradient(#7d603b, #120807);
+background: linear-gradient(#7d603b, #120807);
+font-size:80%;
+float:left;
+width:600px;
+border: 1px solid #fff;
+height:258px;
+padding: 20px 20px 0px 20px;
+border-radius:5px;
+	
+}
+	
+article
+	{
+	
+background-color:#120807;
+background: -webkit-linear-gradient(#7d603b,#120807);
+background: -moz-linear-gradient(#7d603b, #120807);
+background: -o-linear-gradient(#7d603b, #120807);
+background: linear-gradient(#7d603b, #120807);
+font-size:80%;
+float:right;
+width:185px;
+border: 1px solid #fff;
+height:278px;
+padding-left:50px;
+padding-right:20px;
+border-radius:5px;
+	}
+	
+	
+h2{
+	
+	color: #bbb46d;
+	font-size: 1.1em;
+	text-align:center;
+	
+	}
+	
+		
+/****************************Footer***************************/	
+	
+footer
+	{
+	clear:both;
+	text-align:center;
+	padding-top:20px;
+
+	}
+
+	
+footer ul 	{
+padding-top:25px;
+ text-decoration:underline;
+ color:#8B522C;
+}
+
+footer  a:link {
+	  text-decoration:none;
+	  color:#8B522C;
+	  	  }
+
+footer a:hover {
+		color:#fff;
+	 text-decoration:underline;
+}	
+
+
+footer li{
+ color:#8B522C;
+}
+
+	
