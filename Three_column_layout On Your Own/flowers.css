@@ -1,0 +1,132 @@
+/* Sheila Abimbola*/
+
+
+*{
+
+     }
+
+	 	
+/****************************Body****************************/	
+	 
+	 
+/****************************Wrapper****************************/	
+#wrapper{
+     
+	  margin:50px auto;
+	  width:1000px;
+
+
+	 
+	  
+
+	  }
+
+
+/****************************Header****************************/	 
+
+hearder{
+border:1px solid #000000;
+margin:10px;
+} 
+
+header  img {
+
+
+margin-left:30px;
+border:1px solid #000000;
+margin:10px;
+
+
+}
+	  
+	
+/****************************Content_container ****************************/	
+
+#content_container{
+
+border-top:1px solid #17670a;
+	   padding-bottom:50px;
+
+}
+
+p { color: #756c71;
+
+}
+
+
+/****************************navigation****************************/			  
+	nav{ 
+	font-size: 130%;
+padding-right:50px;
+	float: left;
+	padding-top:30px;
+
+	}
+	
+	nav ul{
+ list-style-type: none;
+
+
+ }
+
+ nav a:link {
+	  text-decoration:none;
+	  color:#000000;
+	  	  }
+
+/****************************middle_column ****************************/	
+
+#middle_column {
+float:left;
+width:500px;
+border-left:1px solid #17670a;
+margin:20px;
+	padding-bottom:10px;
+	padding-left:20px;
+	
+
+
+
+}
+
+#middle_column   h1{
+
+color: #c72e66;
+
+
+}
+
+#middle_column   h2{
+color:#9a9afc;
+
+ 
+}
+
+
+/****************************right_column****************************/
+#right_column{
+width:200px;
+float:left;
+padding-left:20px;
+	border-left:1px solid #17670a;
+	margin-top:20px;
+	padding-bottom:10px;
+	;
+
+
+
+}
+
+#right_column h1
+{color:#009cc6;
+
+		}
+/****************************Footer***************************/	
+	footer{
+	clear:both;
+	   border-top:1px solid #17670a;
+
+	
+	 
+	}
+	
