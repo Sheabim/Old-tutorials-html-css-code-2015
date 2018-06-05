@@ -1,0 +1,83 @@
+/*Basic 3-Column Layout*/
+
+/*Support for older browser to treat html5 structural elements as blocks*/
+
+header, footer, section, nav, aside, article, figure{display:block}
+
+
+* {
+margin:0;
+padding:0;
+}
+
+
+body{
+font-family:80% arial, helveltica, sans-serif;
+verdana,sans-serif;
+line-height:150%;
+background:#387a9b;
+color:#333;
+}
+
+*Wrapper{
+
+width:950 px;
+margin:25px auto;
+background: url(images/back01.gif) repeat-y 50% 0;
+}
+
+
+
+header{
+margin-bottom:0;
+background:#d36832;
+
+}
+
+
+header h1
+{
+font-size:230%;
+color:#fffffpassing:20px;
+text-align:right;
+}
+
+
+
+
+#middle_columnh1
+{
+font-size:125%;
+color:#387a9b;
+}
+
+#right_column h1
+{
+
+width:14%;
+float:left;
+padding: 1em 0 1em 5%;
+}
+
+
+nav ul
+
+{
+
+margin:0;
+padding:0;
+list-style-type:none;
+line-height: 150%;
+}
+
+
+footer{
+clear:both;
+background:#387a9b;
+color:#fff;
+padding:5px 3%;
+text-align: right;
+font-size:80%;
+}
+
+

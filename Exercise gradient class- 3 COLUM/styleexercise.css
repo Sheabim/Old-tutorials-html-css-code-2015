@@ -1,0 +1,85 @@
+/*Basic 3-Column Layout*/
+
+/*Support for older browser to treat html5 structural elements as blocks*/
+
+header, footer, section, nav, aside, article, figure{display:block}
+
+* {
+margin:0;
+padding:0;
+}
+
+/*Gets rid of border in IE for images that are linked*/
+img{
+border: none;
+}
+
+#wrapper{
+width:1000px;
+margin:0 auto;
+}
+
+html {
+height:100%;
+
+}
+
+body{
+font-family:calibri,verdana,sans-serif;
+color:#f00;
+background-color:#00698c;
+background: -webkit-linear-gradient(#fffff,#00698c);
+background: -moz-linear-gradient(#ffffff, #00698C);
+background: -o-linear-gradient(#ffffff, #00698C);
+background: linear-gradient(#ffffff, #00698C);
+
+}
+
+/*this example uses heights because there isn't content in the block elements Remove heights in real pages*/
+
+
+header{
+height:100px; 
+background-color:#ccc;
+
+}
+
+nav{
+width:250px;
+float:left;
+height:300px;
+background-color:#999;
+}
+#content_container{
+}
+
+
+#content{
+width:500px;
+float:left;
+height:300px;
+background-color:#333;
+background-color:#00698c;
+background: -webkit-linear-gradient(#fffff,#00698c);
+background: -moz-linear-gradient(#ffffff, #00698C);
+background: -o-linear-gradient(#ffffff, #00698C);
+background: linear-gradient(#ffffff, #00698C);
+}
+
+#rightsidebar{
+width:250px;
+float:left;
+height:300px;
+background-color:#666;
+}
+
+footer{
+clear:both;
+height:75px;
+background-color:#000;
+}
+
+
+
+
+
