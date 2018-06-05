@@ -1,0 +1,95 @@
+/* Basic layout css file*/
+
+body{
+color:#fff;
+     }
+*{
+
+
+}
+/***************************Container****************************/
+#container{
+      width:960px;
+	  padding-bottom:10px;
+	  margin: auto;
+	  margin-top:60px;
+
+
+	  background:#000000;
+
+	  }
+
+	  
+
+/****************************header****************************/
+#header{
+ padding-left:80px;
+ padding-top:30px;
+
+     }
+	 
+	 
+	 
+	 /***************************Navigation****************************/
+#navigation{
+    background-color:#c65bbb;
+	height:25px;
+padding-left:30px;
+	  margin-right:100px;
+	  	  margin-left:100px;
+ 
+	  	  
+	       }
+		   
+		   #navigation a:link {
+		text-decoration:none;
+	  color:#fff;
+	  	  }
+		  
+		  a:hover{
+
+	  color:#d4eb8a;
+		  }
+		  
+	li{
+	list-style-type:none;
+	  display: inline;
+	  padding-right:35px;
+	  	  	  color:#000000;
+	  font-weight:bold;
+	}
+
+/****************************Content****************************/	 
+	 
+	#content{
+	margin:30px;
+	margin-left:100px;
+	font-size:120%;
+	font-weight:lighter;
+
+	}
+	
+	#content 	    a:link {
+
+	  color:#c45cb8;
+	  	  }
+	
+	
+	
+#content img{
+padding:10px;
+
+}
+  /****************************Footer****************************/   
+      
+#footer
+{	  color:#000000;
+
+padding-left:680px;
+
+
+
+
+			}
+
+			
