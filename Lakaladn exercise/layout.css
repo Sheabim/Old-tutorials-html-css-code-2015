@@ -1,0 +1,81 @@
+/* Basic layout css file*/
+
+
+body{
+
+}
+     
+*{
+
+
+}
+
+
+/****************************header****************************/
+
+	 
+	 	 
+/**************************Container ******************************/	
+#container{
+width:700px;
+  margin:50PX auto;
+  border: solid 5px #b8944d;
+
+
+	 }
+	 
+	 
+/****************************navigation****************************/	
+
+#navigation{
+       background-color:#b79352;
+	   margin:10px;
+	   text-align:center;
+	   
+	
+	   	     }
+	  
+	  a:link{
+		color:#000;	
+	  }
+	  
+	  a:hover{
+	  }
+	  
+	  
+	  li{
+	  display:inline;
+	  padding:5px;  
+  
+	  
+	  
+	  }
+
+	 
+/***************************content********************************/	 
+
+ 
+ #col1{
+	width:290px;
+	float:left;
+	padding-left:30px;
+
+}
+
+#col1{
+
+
+	
+
+}
+	   	   
+	   
+  /****************************footer****************************/ 
+  
+  #footer{
+   background-color:#b79352;
+	   margin:10px;
+	    text-align:center;
+
+	    
+  }

@@ -1,0 +1,59 @@
+/* Basic layout css file*/
+
+body{
+
+
+
+     }
+*{
+   Margin:0;
+        
+   padding:0;
+   Border-style:none;
+   font-size:100%;
+     }
+#header{
+align: centre
+}
+
+
+#navigation{
+      
+	 background-color:#de821e;
+
+	  padding:10px;
+	  	  
+	       }
+		   
+		    a:link {
+	  text-decoration:none;
+	  color:#fff;
+	  	  }
+		  
+		  a:hover{
+		  background-color: #894f12;
+		  }
+		  
+	li{
+	list-style-type:none;
+	  display: inline;
+	  padding-right:25px;
+	  color:#f00;
+	  font-weight:bold;
+	}
+#content{
+   
+	}
+	  
+	   
+	   	   
+	   
+      }
+#footer{
+        
+	   }
+
+#container{
+    
+}
+	  
