@@ -1,0 +1,220 @@
+/* Sheila*/
+
+
+/* css reset */
+*{
+margin:0px;
+padding:0px;
+     }
+
+	 	 /* uses a background image  */
+	 body{
+	background-repeat: repeat-x;
+	background-image:url(images/bg.jpg);
+	background-color:#ece9eb;
+	font-family: "Trebuchet MS", arial, sans-serif;	
+	      }
+	 
+	 
+	 /**************************wRAPPER****************************/
+	 
+	 
+/* margin centers the page */
+	#wrapper{
+      width:875px;
+      border:solid 20px #575B4C;
+       margin:0 auto;
+	  background-color:#FFF;
+
+	  }
+	 
+	 
+
+
+	 
+
+ /**************************HEADER****************************/	 
+
+   img {
+border:none;
+}
+
+     
+
+	 
+	 
+
+	
+
+	
+ /***************************NAV****************************/
+	
+#nav{
+margin-left:40px;
+
+
+  }
+			 
+			 		  
+	#nav ul{
+	list-style-type: none;
+	}
+	
+	#nav li{
+display:inline;
+ padding:20px;
+ font-size:1.4em;
+  color:#c91537;
+
+
+	
+	}	
+		   
+	 #nav a:link {
+	  text-decoration:none;
+	  color:#7f8275;
+	  	  }
+		
+		  
+	 #nav a:hover {
+color:#000000;
+}	
+
+	  
+
+  
+  
+  
+  
+  
+  
+ /***************************CONTENT****************************/
+#content{
+
+padding:30px;
+padding-bottom:15px;
+
+}
+	   
+ /************************colum 1***************************/
+
+ #figure{
+  width:300px;
+  margin-left:50px;
+
+
+ }
+ 
+ #figure img{
+border: 9px solid #f95e7c;
+float:left;
+         }
+	
+ 
+
+ 
+	  
+
+ /********************colum 2*************************/
+	  #section{
+	  margin-left:450px;
+	  
+
+	  }
+	  
+h1 {
+
+  font-weight:bold;
+    font-size:1.4em;
+	  color:#f71a44;
+	  padding-bottom:5px;
+}
+
+
+
+h2{
+  font-weight:normal;
+    font-size:1.1em;
+	color: #400f18;
+	 padding-bottom:5px;
+	
+}
+
+ p{
+   font-size:0.9em;
+    padding-bottom:15px;
+	 display: block;
+}
+
+ a{
+    color: #c91537;
+	   text-decoration:none;
+	}
+	
+	address {
+font-size:0.9em;
+}	
+	
+	 /********************colum 2  table*************************/
+	 
+	 table{
+width:300px;
+border-collapse:collapse;
+margin-bottom:30px;
+
+	 }
+	 caption{
+float:left;
+padding-bottom:5px;
+}
+	 
+	 
+	 th, td{
+	border-bottom: 1px solid #000;
+
+	}
+	
+	th{
+	padding-right:15px;
+	}
+	
+	
+	#section a:hover{
+   text-decoration:underline;
+	}
+	
+	
+	
+
+
+
+	   
+	   
+  /**************************Footer***************************/
+#footer{
+
+clear:both;
+font-size:0.75em;
+ color:#000000;
+ text-align:center;
+ padding-top:25px;
+
+}
+
+#footer li {
+ list-style-type:none;
+ display:inline;
+ text-decoration:none;
+
+}
+
+
+#footer a:link{
+text-decoration:none;
+color:#000000;
+}
+
+#footer a:hover{
+color:#7f8275;
+}
+
